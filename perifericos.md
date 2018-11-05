@@ -51,7 +51,7 @@ Los puntos por pulgada (DPI) son una medida de la sensibilidad de un ratón. Cua
  11,99 €
  - ##### **Corsair**
  
-<img width="300" src= "https://picscdn.redblue.de/doi/pixelboxx-mss-78898566/fee_786_587_png/Rat%C3%B3n-con-cable---HP-QY777AA--%C3%93ptico--USB--color-negro">
+<img width="300" src= "https://thumb.pccomponentes.com/w-530-530/articles/16/164963/1.jpg">
 
 99,99 €	
 
