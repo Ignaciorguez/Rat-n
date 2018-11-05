@@ -1,13 +1,22 @@
 
 # Periférico
+
 ## Ratón
+
 <img width="300" src=https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/e89bbb803bc052674b90dd2af61100e0/large.jpg>
+
 ### Qué es un periférico?
+
 Aparatos o dispositivos auxiliares e independientes conectados a la unidad central de procesamiento de una computadora.
+
 ### Qué es un ratón?
+
 Es un dispositivo apuntador utilizado para facilitar el manejo de un entorno gráfico en una computadora.
+
 ### Historia
+
 Fue diseñado por Douglas Engelbart y Bill English durante los años 1960 en el Stanford Research Institute, un laboratorio de la Universidad Stanford, en pleno Silicon Valley en California.
+
 ### Que son los DPI?
 
 Monitor 17 pulgadas = 17+00 = 1700 DPI (recomendación)
