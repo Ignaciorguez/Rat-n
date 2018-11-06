@@ -16,7 +16,13 @@ Es un dispositivo apuntador utilizado para facilitar el manejo de un entorno gr�
 
 ### Historia
 
-Fue diseñado por Douglas Engelbart y Bill English durante los años 1960 en el Stanford Research Institute, un laboratorio de la Universidad Stanford, en pleno Silicon Valley en California.
+Fue diseñado por Douglas Engelbart y Bill English durante los años 1960 en el Stanford Research Institute, un laboratorio de la Universidad Stanford, en pleno Silicon Valley en California. Más tarde fue mejorado en los laboratorios de Palo Alto de la compañía Xerox (conocidos como Xerox PARC). Con su aparición, logró también dar el paso definitivo a la aparición de los primeros entornos o interfaces gráficas de usuario.
+
+### Funcionamiento
+
+Principalmente es gracias bola de goma que gira libremente, transmitiendo dicho giro a dos rodillos, uno longitudinal y otro transversal, cuyo diseño permite el paso de haces luminosos hacia una célula fotoeléctrica, que convierte las señales luminosas en eléctricas, y que a su vez son convertidas por el circuito interno del ratón en datos binarios. Estos datos se envían al procesador que se encarga de calcular la posición del cursor en la pantalla.
+
+<img width=300 src="http://4.bp.blogspot.com/_R7bkpBxOu2c/S42OHdYzh0I/AAAAAAAAAG4/v_bEj6bXp5U/s400/Dibujo.bmp">
 
 ### Que son los DPI?
 
