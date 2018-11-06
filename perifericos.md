@@ -18,9 +18,12 @@ Es un dispositivo apuntador utilizado para facilitar el manejo de un entorno gr�
 
 Fue diseñado por Douglas Engelbart y Bill English durante los años 1960 en el Stanford Research Institute, un laboratorio de la Universidad Stanford, en pleno Silicon Valley en California. Más tarde fue mejorado en los laboratorios de Palo Alto de la compañía Xerox (conocidos como Xerox PARC). Con su aparición, logró también dar el paso definitivo a la aparición de los primeros entornos o interfaces gráficas de usuario.
 
-### Funcionamiento
+### Funcionamiento y tipos/modelos de mouse
 
-Principalmente es gracias bola de goma que gira libremente, transmitiendo dicho giro a dos rodillos, uno longitudinal y otro transversal, cuyo diseño permite el paso de haces luminosos hacia una célula fotoeléctrica, que convierte las señales luminosas en eléctricas, y que a su vez son convertidas por el circuito interno del ratón en datos binarios. Estos datos se envían al procesador que se encarga de calcular la posición del cursor en la pantalla.
+* Mecánicos:Su funcionamiento se da principalmente gracias a una bola de goma que gira libremente y que está en contacto con dos ruedas, a estas ruedas se les conoce también como ruedasencoder, se le denomina este nombre porque se dicen que paran encodadas. Gracias al contacto de estas ruedas con la bola se genera señales (algo así como pulsos) que avisan que el Mouse se esta moviendo hacia una determinada dirección.
+* Ópticos: utiliza sensores ópticos como un sistema de refracción y el halo de la luz roja que para eso se  utilizan leds, en los cuales con su encendido fuerte o bajo indican la intensidad del movimiento y detectan hacia donde se realiza el movimiento.
+* Láser: Es un equipo muy sensible, que se diferencia del anterior en que envez de sensores ópticos tienen un motor de captura de movimiento, que trabaja conun láser.
+* Trackball: En el funcionamiento se debe mover el puntero, no el dispositivo, por lo que se adapta para presentar una bola, de tal forma que cuando se coloque la mano encima se pueda mover mediante el dedo pulgar, sin necesidad de desplazar nada más, ni toda la mano como antes.
 
 <img width=300 src="http://4.bp.blogspot.com/_R7bkpBxOu2c/S42OHdYzh0I/AAAAAAAAAG4/v_bEj6bXp5U/s400/Dibujo.bmp">
 
@@ -56,17 +59,7 @@ Los puntos por pulgada (DPI) son una medida de la sensibilidad de un ratón. Cua
  
 <img width="300" src= "https://thumb.pccomponentes.com/w-530-530/articles/15/152992/1.jpg">
 
- ### Modelos
- 
- * Por mecanismo
-	 * Mecánicos
-	 * Ópticos
-	 * Láser
-	 * Trackball
- * Por conexión
-	 * Por cable
-	 * Inalámbrico
-	 
+
  ### Partes
  
 <img width= "300" src=https://shop.outplayed.it/wp-content/uploads/2018/09/Zelotes-T90-Gaming-Mouse-9200-DPI-Wired-USB-Computer-Mice-for-PC-Mac-8-Buttons-Multi-Modes-LED-Lights-0-2.jpg>
