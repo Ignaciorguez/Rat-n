@@ -30,36 +30,25 @@ Los puntos por pulgada (DPI) son una medida de la sensibilidad de un ratón. Cua
  
  <img width="300" src= "https://thumb.pccomponentes.com/w-530-530/articles/5/58427/sharkoon-drakonia-black.jpg">
  
- 38 €
- 
  - ##### **Logitech**
  
  <img width="300" src= "https://thumb.pccomponentes.com/w-530-530/articles/10/107728/k111.jpg">
- 
- 52,99 €
  
  - ##### **Razer**
  
  <img width="300" src= "https://picscdn.redblue.de/doi/pixelboxx-mss-76205416/fee_325_225_png/Rat%C3%B3n-Gaming---Razer-Basilisk--%C3%93ptico--16000-ppp--Negro-y-verde"> 
  
- 59,99 €
- 
  - ##### **HP**
  
  <img width="300" src= "https://picscdn.redblue.de/doi/pixelboxx-mss-78898566/fee_786_587_png/Rat%C3%B3n-con-cable---HP-QY777AA--%C3%93ptico--USB--color-negro">
  
- 11,99 €
  - ##### **Corsair**
  
 <img width="300" src= "https://thumb.pccomponentes.com/w-530-530/articles/16/164963/1.jpg">
 
-99,99 €	
-
  - ##### **Cooler Master**
  
 <img width="300" src= "https://thumb.pccomponentes.com/w-530-530/articles/15/152992/1.jpg">
-
-41 €
 
  ### Modelos
  
